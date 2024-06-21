@@ -1,0 +1,29 @@
+[
+ {
+  "body": "<div class=\"ql-editor read-mode\"><p><strong>Site Engineer Tasks</strong></p><p>The main tasks for the Site Engineer are to check the materials and issue any request in case materials are needed for the project.</p><p><br></p><p><strong>Creating a Material Request</strong></p><p>The Site Engineer can request any materials by using the link provided here. <a href=\"/request-material\" rel=\"noopener noreferrer\">Click here</a></p><p>OR</p><p>The Site Engineer can follow the below directions to reach there.</p><p><br></p><p><strong>How to Make a Material Request</strong></p><p>Follow the below steps to issue Material Request.</p><ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Select the Purpose, Required Date and Company.</li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Next Enter the Project and the Block.</li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Next Select the Items/Materials that are needed and the Quantity required.</li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Then Click on Submit/Issue Request for Generating a Material Request.</li></ol><p><br></p><p>The Request copy will be shared with the Site Engineer and a copy will be sent to the Project Manager.</p></div>",
+  "docstatus": 0,
+  "doctype": "Documentation",
+  "modified": "2024-06-20 11:33:21.353918",
+  "name": "Site Engineer",
+  "role": "Site Engineer",
+  "title": "Site Engineer"
+ },
+ {
+  "body": "<div class=\"ql-editor read-mode\"><p><strong>To delete all the transactional entries, follow the steps given below:</strong></p><p><br></p><p> &nbsp; &nbsp;Go to Accounts Settings.</p><p> &nbsp; &nbsp;Enable a checkbox Delete Accounting and Stock Ledger Entries on the deletion of Transaction.</p><p> &nbsp; &nbsp;Save and Refresh.</p></div>",
+  "docstatus": 0,
+  "doctype": "Documentation",
+  "modified": "2024-06-20 17:30:08.221802",
+  "name": "Accounts Manager",
+  "role": "Accounts Manager",
+  "title": "Accounts Manager"
+ },
+ {
+  "body": "<div class=\"ql-editor read-mode\">\n    <p>\n        <strong>Indent Approver Tasks</strong>\n    </p>\n    <p>To check and verify the Indents and to Approve/Reject them.</p>\n    <p>Upon logging in, the following screen will open.</p>\n    <p>\n        <img src=\"/private/files/Screenshot from 2024-06-21 10-41-28.png\" style=\"border: 1px solid black; width: 80%;\">\n    </p>\n    <p>\n        <br>\n    </p>\n    <p>\n        <strong>Approve/Reject</strong>\n    </p>\n    <p>First Access the Indent Approver Dashboard by clicking <a href=\"https://stage-modernventures.frappe.cloud/app/indent-approver-dashboard\" rel=\"noopener noreferrer\">here</a> or by clicking the Indent Approver Dashboard on the screen as follows.</p>\n    <p>\n        <img src=\"/private/files/Screenshot from 2024-06-21 10-41-42.png\" style=\"border: 1px solid black; width: 80%;\">\n    </p>\n    <p><br></p>\n    <p>The dashboard opens up</p>\n    <p>\n        <img src=\"/private/files/Screenshot from 2024-06-21 10-41-58.png\" style=\"border: 1px solid black; width: 80%;\">\n    </p>\n    <p><br></p>\n    <ol>\n        <li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The dashboard shows the count of Unapproved Indents. Clicking on these will open a list of Pending Indents either to be Approved or Rejected.</li>\n        <li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Select the Indents to Approve. Check the entries and Approve/Reject.</li>\n        <li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Reason of Rejection can be provided.</li>\n    </ol>\n</div>",
+  "docstatus": 0,
+  "doctype": "Documentation",
+  "modified": "2024-06-21 10:45:01.208041",
+  "name": "Indent Approver",
+  "role": "Indent Approver",
+  "title": "Indent Approver"
+ }
+]

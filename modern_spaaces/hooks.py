@@ -4,6 +4,15 @@ app_publisher = "SK"
 app_description = "Modern Spaaces Application"
 app_email = "sk@test.com"
 app_license = "mit"
+
+
+fixtures = [
+    {
+        "dt": "Documentation",
+    }
+]
+
+
 # required_apps = []
 
 # Includes in <head>
